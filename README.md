@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrRyanWise
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning java, python and html5/css3
+- 💞️ I’m looking to collaborate on Ia projects
+- 📫 How to reach me tankengr@3il.fr
