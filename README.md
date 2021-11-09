@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MrRyanWise
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning java, python and html5/css3
-- 💞️ I’m looking to collaborate on Ia projects
-- 📫 How to reach me tankengr@3il.fr
+- 👋 Salut moi c'est  @MrRyanWise
+- 👀 Je suis un jeune étudiant passionné d'informatique 
+- 🌱 j'étudie actuellement le java, python et  html5/css3
+- 💞️ je cherche à collaborer sur des projets  
+- 📫 Me contacter au  tankengwise1@gmail.com
