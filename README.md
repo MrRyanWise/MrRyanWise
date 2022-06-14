@@ -32,8 +32,7 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
      <td><a href="https://github.com/MrRyanWise/RyanJeuxZombiePython/blob/main/README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a>
      </td>
                                                                                                                
-     <td><a href="https://www.python.org/doc/"> Python </a> 
-     </td>
+     <td><a href="https://www.python.org/doc/"> Python </a></td>
    </tr>
    
 </table> 
