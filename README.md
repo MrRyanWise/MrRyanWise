@@ -25,9 +25,9 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
   </tr>
   
    <tr>
-     <td><a href=""><img src=""/></a></td>          
+     <td><a href="https://github.com/MrRyanWise/RyanJeuxZombiePython"><img src="https://github.com/MrRyanWise/RyanJeuxZombiePython/raw/main/Assets/Accueil.png"/></a></td>          
      <td><a href=""><img src=""/></a></td>
-     <td><a href=""></a></td>
+     <td><a href="https://www.python.org/doc/"> Python </a></td>
    </tr>
    
 </table> 
