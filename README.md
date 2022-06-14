@@ -26,7 +26,8 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
   
    <tr>
      <td>
-       <img src="https://github.com/MrRyanWise/RyanJeuxZombiePython/raw/main/Assets/Accueil.png" height="70px" width="70px/>        </td>
+       <img src="https://github.com/MrRyanWise/RyanJeuxZombiePython/raw/main/Assets/Accueil.png" />  
+     </td>
                                                                                                                       
      <td>
         <a href="https://github.com/MrRyanWise/RyanJeuxZombiePython/blob/main/README.md" height="50px" width="50px"/>
