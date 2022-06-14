@@ -24,11 +24,14 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
     </td>
   </tr>
   
-    <tr>
-    <td><img src=""/></td>
-    <td><a href="https://github.com/MrRyanWise/RyanJeuxZombiePython/blob/main/README.md" height="50px" width="50px"/></a></td>
-    <td> <a href="https://www.python.org/doc/">Python</a> </td>
-    </tr>
-  
-
+   <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+   </tr>
 </table>
