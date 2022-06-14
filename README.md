@@ -9,8 +9,8 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
 <table>
   <tr>
     <th><b><center>Deployed App</center></b></th>
-    <th><b><centerRepo</center></b></th>  
-    <th><b><centerTechnologies Used</center></b></th>
+    <th><b><center>Repo</center></b></th>  
+    <th><b><center>Technologies Used</center></b></th>
   </tr>
   
   <tr>
