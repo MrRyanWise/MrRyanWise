@@ -34,4 +34,4 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
      <td></td>
      <td></td>
    </tr>
-</table>
+</table> 
