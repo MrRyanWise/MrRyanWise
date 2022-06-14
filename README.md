@@ -25,9 +25,9 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
   </tr>
   
    <tr>
-     <td></td>          
-     <td></td>
-     <td></td>
+     <td><a href=""><img src=""/></a></td>          
+     <td><a href=""><img src=""/></a></td>
+     <td><a href=""></a></td>
    </tr>
    
 </table> 
