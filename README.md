@@ -14,7 +14,7 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="https://github.com/MrRyanWise/RyanSpace-X-Dashboard/raw/main/src/Assets/Space%20X.gif"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"/></td>
     <td></td>
   </tr>
