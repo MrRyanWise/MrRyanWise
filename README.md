@@ -31,7 +31,7 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
    </tr>
   
   <tr>
-    <td></td>
+    <td><a href="https://github.com/MrRyanWise/RyanHackathon"><img src="https://github.com/MrRyanWise/RyanHackathon/raw/main/src/Assets/Hackathon.gif"/></a></td>
     <td><a href="https://github.com/MrRyanWise/RyanHackathon"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
     <td><a href="https://docs.oracle.com/en/java/"> Java </a></td>
   </tr>
