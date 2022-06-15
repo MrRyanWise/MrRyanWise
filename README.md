@@ -30,6 +30,12 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
      <td><a href="https://www.python.org/doc/"> Python </a></td>
    </tr>
   
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
     <tr>
      <td><a href="https://github.com/MrRyanWise/RyanHackathon"><img src="https://github.com/MrRyanWise/RyanHackathon/raw/main/src/Assets/Hackathon.gif"/></a></td>
      <td><a href="https://github.com/MrRyanWise/RyanHackathon"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
