@@ -45,7 +45,13 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
    <tr>
      <td><a href="https://mrryanwise.github.io/Ryantictactoe.io/"><img src="https://github.com/MrRyanWise/Ryantictactoe.io/raw/main/images/TicTacToe.png"/></a></td>          
      <td><a href="https://github.com/MrRyanWise/Ryantictactoe.io/blob/main/README.md"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
-     <td><a href="[#](https://mrryanwise.github.io/Ryantictactoe.io/)"> Html5 / Css3 / Javascript </a></td>
+     <td><a href="https://mrryanwise.github.io/Ryantictactoe.io/"> Html5 / Css3 / Javascript </a></td>
+   </tr>
+  
+   <tr>
+     <td><a href="https://mrryanwise.github.io/RyanCalculatrice/"><img src="https://github.com/MrRyanWise/RyanCalculatrice/raw/main/Calcc.png"/></a></td>   
+     <td><a href="https://github.com/MrRyanWise/RyanCalculatrice"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
+     <td><a href="https://mrryanwise.github.io/RyanCalculatrice/"> Html5 / Css3 / Javascript </a></td>
    </tr>
   
   
