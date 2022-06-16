@@ -6,7 +6,7 @@
 My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
 
 
-<h2><b>#Best projects</b> & </h2> <h4> My PortFolio : <a href="https://mrryanwise.github.io/RYANWISEPORTFOLIO/index.html">Here :) </a></h4>
+<h2><b>#Best projects</b>  </h2> <h4> My PortFolio : <a href="https://mrryanwise.github.io/RYANWISEPORTFOLIO/index.html">Here :) </a></h4>
 <br/>
 
  
