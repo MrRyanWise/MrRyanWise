@@ -18,7 +18,7 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
   </tr>
   
   <tr>
-    <td><img src="https://github.com/MrRyanWise/RyanSpace-X-Dashboard/raw/main/src/Assets/Space%20X.gif"/></td>
+    <td><img src="https://github.com/MrRyanWise/RyanSpace-X-Dashboard/raw/main/src/Assets/Space%20X.gif" height="100px" width="100px"/></td>
     <td><a href="https://github.com/MrRyanWise/RyanSpace-X-Dashboard"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
     <td>  
           <a href="https://reactjs.org">React JS</a> , 
@@ -30,8 +30,8 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
   
  
    <tr>
-    <td><img src="https://github.com/MrRyanWise/CryptoHunter/raw/main/public/1.png"/></td>
-    <td><a href="https://github.com/MrRyanWise/RyanSpace-X-Dashboard"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
+    <td><a href="https://github.com/MrRyanWise/CryptoHunter"><img src="https://github.com/MrRyanWise/CryptoHunter/raw/main/public/1.png"  height="100px" width="100px"/></a></td>
+    <td><a href="https://github.com/MrRyanWise/CryptoHunter"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
     <td>  
           <a href="https://reactjs.org">React JS</a> , 
           <a href="https://react-chartjs-2.js.org">Chart JS</a> , 
