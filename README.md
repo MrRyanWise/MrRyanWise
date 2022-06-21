@@ -3,7 +3,8 @@
 - 🌱 j'étudie actuellement le java, python et  html5/css3
 - 💞️ je cherche à collaborer sur des projets  
 - 📫 Me contacter au  tankengwise1@gmail.com
-My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a>
+My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a><br>
+<a href="https://www.linkedin.com/in/ryan-wise-tankeng-442a95197/">My Profil LinkedIn</a>
 
 
 <h2><b>#Best projects</b>  </h2> <h4> My PortFolio : <a href="https://mrryanwise.github.io/RYANWISEPORTFOLIO/index.html">Here :) </a></h4>
