@@ -1,8 +1,9 @@
-- 👋 Salut moi c'est  @MrRyanWise
-- 👀 Je suis un jeune étudiant passionné d'informatique 
-- 🌱 j'étudie actuellement le java, python et  html5/css3
-- 💞️ je cherche à collaborer sur des projets  
-- 📫 Me contacter au  tankengwise1@gmail.com
+- 👋 Hi I'm @MrRyanWise
+- 👀 I'm a young student with a passion for computer science 
+- 🌱 I am currently studying java, python and html5/css3
+- 💞️ I'm looking to collaborate on projects  
+- 📫 Contact me at tankengwise1@gmail.com
+- 
 My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a><br>
 <a href="https://www.linkedin.com/in/ryan-wise-tankeng-442a95197/">My Profil LinkedIn</a>
 
