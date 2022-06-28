@@ -59,7 +59,7 @@ My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a><br>
    </tr>
  
    <tr>
-     <td><a href="https://github.com/MrRyanWise/RyanConnect4"><img src="https://github.com/MrRyanWise/RyanConnect4/raw/main/Images/Connect_4.gif"/></a></td>          
+     <td><a href="https://mrryanwise.github.io/RyanConnect4/"><img src="https://github.com/MrRyanWise/RyanConnect4/raw/main/Images/Connect_4.gif"/></a></td>          
      <td><a href="https://github.com/MrRyanWise/RyanConnect4"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
      <td><a href="https://github.com/MrRyanWise/RyanConnect4"> Html5 / Css3 / Javascript </a></td>
    </tr>
