@@ -3,9 +3,8 @@
 - 🌱 I am currently studying java, python and html5/css3
 - 💞️ I'm looking to collaborate on projects  
 - 📫 Contact me at tankengwise1@gmail.com
-- 
-My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a><br>
-<a href="https://www.linkedin.com/in/ryan-wise-tankeng-442a95197/">My Profil LinkedIn</a>
+- 🌱 My school <a href="https://www.3il-ingenieurs.fr">3IL LIMOGES</a><br>
+- 🌱 <a href="https://www.linkedin.com/in/ryan-wise-tankeng-442a95197/">My Profil LinkedIn</a>
 
 
 <h2><b>#Best projects</b>  </h2> <h4> My PortFolio : <a href="https://mrryanwise.github.io/RYANWISEPORTFOLIO/index.html">Here :) </a></h4>
