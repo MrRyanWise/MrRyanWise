@@ -88,5 +88,10 @@
    </tr>
  
  
+  <tr>
+     <td><a href="https://mrryanwise.github.io/StopWatch/"><img src="https://github.com/MrRyanWise/StopWatch/raw/main/src/img/watch.png"/></a></td>   
+     <td><a href="https://github.com/MrRyanWise/StopWatch"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
+     <td><a href="https://github.com/MrRyanWise/StopWatch"> Html5 / Css3 / Javascript </a></td>
+   </tr>
 
 </table> 
