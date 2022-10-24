@@ -58,6 +58,13 @@
      <td><a href="https://github.com/MrRyanWise/RyanTodoList"> Html5 / Css3 / Javascript </a></td>
    </tr>
  
+ 
+ <tr>
+     <td><a href="https://mrryanwise.github.io/WorkingPagination/"><img src="https://github.com/MrRyanWise/WorkingPagination/blob/main/img/fond.png?raw=true"/></a></td>     
+     <td><a href="https://github.com/MrRyanWise/WorkingPagination"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
+     <td><a href="https://github.com/MrRyanWise/WorkingPagination"> Html5 / Css3 / Javascript </a></td>
+   </tr>
+ 
    <tr>
      <td><a href="https://mrryanwise.github.io/RyanConnect4/"><img src="https://github.com/MrRyanWise/RyanConnect4/raw/main/Images/Connect_4.gif"/></a></td>          
      <td><a href="https://github.com/MrRyanWise/RyanConnect4"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/> </a></td>
