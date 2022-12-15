@@ -20,9 +20,9 @@
   </tr>
   
  <tr>
-  <td><a href="https://github.com/MrRyanWise/StudentManagement/blob/main/README.md" target="blank"><img src="https://github.com/MrRyanWise/StudentManagement/blob/main/src/img/logo.png?raw=true" /> </a></td>
+  <td><a href="https://github.com/MrRyanWise/StudentManagement/blob/main/README.md" target="_blank"><img src="https://github.com/MrRyanWise/StudentManagement/blob/main/src/img/logo.png?raw=true" /> </a></td>
   <td><a href="https://github.com/MrRyanWise/StudentManagement/blob/main/README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
-  <td><a href="https://docs.oracle.com/en/java/" target="blank">Java</a></td>
+  <td><a href="https://docs.oracle.com/en/java/" target="_blank">Java</a></td>
  </tr>
  
  <tr>
