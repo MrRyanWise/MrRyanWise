@@ -19,7 +19,13 @@
     <th><b><center>Technologies Used</center></b></th>
   </tr>
   
-  <tr>
+ <tr>
+  <td><a href="https://github.com/MrRyanWise/StudentManagement/blob/main/README.md"><img src="https://github.com/MrRyanWise/StudentManagement/blob/main/src/img/logo.png?raw=true" /> </a></td>
+  <td><a href="https://github.com/MrRyanWise/StudentManagement/blob/main/README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
+  <td><a href="https://docs.oracle.com/en/java/">Java</a></td>
+ </tr>
+ 
+ <tr>
     <td><a href="https://0cgzob.csb.app/"><img src="https://github.com/MrRyanWise/RyanSpace-X-Dashboard/raw/main/src/Assets/Space%20X.gif"/></a></td>
     <td><a href="https://github.com/MrRyanWise/RyanSpace-X-Dashboard"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
     <td>  
