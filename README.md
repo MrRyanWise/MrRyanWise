@@ -52,7 +52,7 @@
     <td><a href="https://github.com/MrRyanWise/CryptoHunter"><img src="https://github.com/MrRyanWise/CryptoHunter/raw/main/src/CryptoHunter.gif"/></a></td>
     <td><a href="https://github.com/MrRyanWise/CryptoHunter"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
     <td>  <a href="#">Html css </a>
-          <a href="https://reactjs.org">React JS</a> ,  
+          <a href="https://reactjs.org">React JS</a>
     </td>
   </tr>
  
