@@ -13,7 +13,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
  
 
- 
+ <table>
+ <tr>
+   <td>
+     [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
+   </td>
+   <td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
+  </td> 
+ </tr>
+</table>
 <table>
   <tr>
     <th><b><center>Deployed App</center></b></th>
