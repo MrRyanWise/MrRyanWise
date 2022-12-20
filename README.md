@@ -18,7 +18,18 @@
     <th><b><center>Repo</center></b></th>  
     <th><b><center>Technologies Used</center></b></th>
   </tr>
-  
+ 
+  <tr>
+  <td><a href="https://github.com/MrRyanWise/EmployeeManagementSystem" target="_blank"><img src="https://github.com/MrRyanWise/EmployeeManagementSystem/blob/main/img/logo.png?raw=true" /> </a></td>
+  <td><a href="https://github.com/MrRyanWise/StudentManagement"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
+  <td>
+   <a href="https://spring.io/projects/spring-boot">Spring Boot</a>
+   <a href="https://docs.oracle.com/en/java/" target="_blank">Java</a>
+   <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Boostrap</a>
+   <a href="https://developer.mozilla.org/fr/docs/Web/HTML">HTML5</a>
+   </td>
+ </tr>
+ 
  <tr>
   <td><a href="https://github.com/MrRyanWise/StudentManagement" target="_blank"><img src="https://github.com/MrRyanWise/StudentManagement/blob/main/src/img/logo.png?raw=true" /> </a></td>
   <td><a href="https://github.com/MrRyanWise/StudentManagement"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
