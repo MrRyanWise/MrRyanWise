@@ -10,9 +10,12 @@
 <h2><b>#Best projects</b>  </h2> <h4> My PortFolio : <a href="https://mrryanwise.github.io/RYANWISEPORTFOLIO/index.html">Here :) </a></h4>
 <br/>
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=MrRyanWise)](https://github.com/MrRyanWise/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/MrRyanWise/github-readme-stats)
+<table>
+ <tr>
+   <td>[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=MrRyanWise)](https://github.com/MrRyanWise/github-readme-stats)</td>
+   <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/MrRyanWise/github-readme-stats)</td> 
+ </tr>
+</table>
  
 <table>
   <tr>
