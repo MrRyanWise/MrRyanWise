@@ -10,6 +10,8 @@
 <h2><b>#Best projects</b>  </h2> <h4> My PortFolio : <a href="https://mrryanwise.github.io/RYANWISEPORTFOLIO/index.html">Here :) </a></h4>
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
  
 
