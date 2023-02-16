@@ -14,65 +14,44 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
  
- <style>
- :root {
-  --success: #00b894;
-  --progress: #e17055;
-}
 
-.progressbar-wrapper {
-  background-color: #dfe6e9;
-  color: white;
-  border-radius: 15px;
-  width: 100%;
-}
-
-.progressbar {
-  background-color: var(--progress);
-  color: white;
-  padding: 1rem;
-  text-align: right;
-  font-size: 20px;
-  border-radius: 15px;
-}
-
-.progressbar[title="downloading"] {
-   background-color: var(--progress);
-}
-
-.progressbar[title="downloaded"] {
-   background-color: var(--success);
-}
-  
-.mp4 {
-  width: 100%;
-}
-
-.mp3 {
-  width: 60%;
-}
-</style>
-<h1 class="text-center">Favorites Languages :) </h1>
- <div class="container">
+<h1>Favorites Languages :) </h1>
+ <div>
      <p>Java</p>
-     <div class="progressbar-wrapper">
-      <div title="Java" class="progressbar mp4">100%</div>
+     <div style="
+                  background-color: #dfe6e9;
+                  color: white;
+                  border-radius: 15px;
+                  width: 100%;
+                 " >
+      <div title="Java" style=" background-color: #e17055;
+                                color: white;
+                                padding: 1rem;
+                                text-align: right;
+                                font-size: 20px;
+                                border-radius: 15px;
+                                width: 100%;
+                               ">100%</div>
      </div>
 
      <p>Python</p>
-     <div class="progressbar-wrapper">
-      <div title="Python" class="progressbar mp3">60%</div>
+      <div style="
+                  background-color: #dfe6e9;
+                  color: white;
+                  border-radius: 15px;
+                  width: 100%;
+                 " >
+      <div title="Python"  style=" background-color: #e17055;
+                                color: white;
+                                padding: 1rem;
+                                text-align: right;
+                                font-size: 20px;
+                                border-radius: 15px;
+                                width: 60%;
+                               ">60%</div>
      </div>
 </div>
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 <table>
   <tr>
     <th><b><center>Deployed App</center></b></th>
