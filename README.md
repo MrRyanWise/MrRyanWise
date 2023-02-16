@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
  
 
-<h1>Favorites Languages :) </h1>
+<h1 style="color:red;">Favorites Languages :) </h1>
  <div>
      <p>Java</p>
      <div style="
