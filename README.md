@@ -12,9 +12,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyanWise)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
 <table>
   <tr>
     <th><b><center>Deployed App</center></b></th>
@@ -34,7 +31,8 @@
  </tr>
  
  <tr>
-  <td><a href="https://github.com/MrRyanWise/StudentManagement" target="_blank"><img src="https://github.com/MrRyanWise/StudentManagement/blob/main/src/img/logo.png?raw=true" /> </a></td>
+  <td><a href="https://github.com/MrRyanWise/StudentManagement" target="_blank"><img src="https://github.com/MrRyanWise/StudentManagement/blob/main/src/img/logo.png?raw=true" /> </a>
+ </td>
   <td><a href="https://github.com/MrRyanWise/StudentManagement"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
   <td><a href="https://docs.oracle.com/en/java/" target="_blank">Java</a></td>
  </tr>
@@ -49,7 +47,14 @@
       <br/>Data Source: <a href="https://github.com/r-spacex/SpaceX-API">SpaceX API</a>
     </td>
   </tr>
-  
+ 
+ 
+ 
+ <tr>
+   <td><a href="https://mrryanwise.github.io/projetburger/"><img src="https://github.com/MrRyanWise/projetburger/raw/main/images/presentation.gif"/></a></td>
+   <td><a href="https://github.com/MrRyanWise/projetburger"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
+   <td><a href="https://github.com/MrRyanWise/RyanTodoList"> Html5 / Css3 / Javascript </a>
+ </tr>
  
    <tr>
     <td><a href="https://github.com/MrRyanWise/CryptoHunter"><img src="https://github.com/MrRyanWise/CryptoHunter/raw/main/src/CryptoHunter.gif"/></a></td>
