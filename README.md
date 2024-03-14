@@ -53,7 +53,7 @@
  <tr>
    <td><a href="https://mrryanwise.github.io/projetburger/"><img src="https://github.com/MrRyanWise/projetburger/raw/main/images/presentation.gif"/></a></td>
    <td><a href="https://github.com/MrRyanWise/projetburger"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
-   <td><a href="https://github.com/MrRyanWise/RyanTodoList"> Html5 / Css3 / Javascript </a>
+   <td><a href="https://github.com/MrRyanWise/RyanTodoList"> PHP / Html5 / Css3 / Javascript </a>
  </tr>
  
    <tr>
