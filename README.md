@@ -20,7 +20,7 @@
   </tr>
 
   <tr>
-  <td><a href="[https://github.com/MrRyanWise/RyanFashionSite/tree/main](https://mrryanwise.github.io/RyanFashionSite/)" target="_blank"><img src="https://github.com/MrRyanWise/RyanFashionSite/blob/main/assets/WebFashion.gif?raw=true" /> </a></td>
+  <td><a href="[https://github.com/MrRyanWise/RyanFashionSite/tree/main](https://mrryanwise.github.io/RyanFashionSite/)" target="_blank"><img src="https://github.com/MrRyanWise/RyanFashionSite/blob/main/assets/WebFashion.gif" /> </a></td>
   <td><a href="https://github.com/MrRyanWise/RyanFashionSite/tree/main"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
   <td>
    <a href="https://mrryanwise.github.io/RyanFashionSite/"> Click here to see the site </a>
