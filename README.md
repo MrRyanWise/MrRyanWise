@@ -18,7 +18,18 @@
     <th><b><center>Repo</center></b></th>  
     <th><b><center>Technologies Used</center></b></th>
   </tr>
- 
+
+  <tr>
+  <td><a href="[https://github.com/MrRyanWise/RyanFashionSite/tree/main](https://mrryanwise.github.io/RyanFashionSite/)" target="_blank"><img src="https://github.com/MrRyanWise/RyanFashionSite/blob/main/assets/WebFashion.gif?raw=true" /> </a></td>
+  <td><a href="https://github.com/MrRyanWise/RyanFashionSite/tree/main"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
+  <td>
+   <a href="https://mrryanwise.github.io/RyanFashionSite/"> Click here to see the site </a>
+   <a href="https://developer.mozilla.org/fr/docs/Web/HTML">HTML5</a>
+   <a href="https://developer.mozilla.org/fr/docs/Web/CSS"> Css3 </a> 
+   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"> Javascript </a>
+   </td>
+ </tr>
+  
   <tr>
   <td><a href="https://github.com/MrRyanWise/EmployeeManagementSystem" target="_blank"><img src="https://github.com/MrRyanWise/EmployeeManagementSystem/blob/main/img/logo.png?raw=true" /> </a></td>
   <td><a href="https://github.com/MrRyanWise/StudentManagement"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" height="50px" width="50px"/></a></td>
